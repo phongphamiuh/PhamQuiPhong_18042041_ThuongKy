@@ -10,7 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Emotion"
         android:usesCleartextTraffic="true">
-        <activity android:name=".EmotionActivity"></activity>
+        <activity android:name=".create"></activity>
+        <activity android:name=".edit" />
+        <activity android:name=".EmotionActivity" />
         <activity android:name=".Signin" />
         <activity android:name=".Signup" />
         <activity android:name=".MainActivity">
