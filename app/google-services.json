@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838051996807",
+    "firebase_url": "https://androi-6b7c7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "androi-6b7c7",
+    "storage_bucket": "androi-6b7c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838051996807:android:75fd6827a356d8195ac422",
+        "android_client_info": {
+          "package_name": "com.example.emotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838051996807-rdmht1ap6jv5hqd218rrofju226221fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADmZglM9YOiVnoMZxyNFhKwAl3a2xXLl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838051996807-rdmht1ap6jv5hqd218rrofju226221fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
